@@ -1,2 +1,1 @@
-Am the first java program updated
-Added bug1 branch fix
+Am the first java program updated @bug1 details
